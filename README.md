@@ -530,3 +530,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+- **[AgentDiet](https://github.com/robertoyanguas-ops/agentdiet)** - Remote Streamable HTTP MCP server & 16-node B2A suite that strips 85-97% of HTML/JSON token bloat before it hits your LLM context window.
+- **[Assay](https://github.com/robertoyanguas-ops/assay)** - Continuous MCP & A2A security observatory: SHA-256 `tools/list` schema pinning (`mcp-lock.json`), rug-pull detection, and pre-flight verification.
